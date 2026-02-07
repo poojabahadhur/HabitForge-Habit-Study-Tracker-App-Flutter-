@@ -34,6 +34,7 @@ The app combines habit tracking, calendar views, reading progress, and a study t
 
 ## 📂 Project Structure
 
+```text
 lib/
 ├── database/
 │   └── habit_database.dart
@@ -59,6 +60,7 @@ lib/
 │   ├── habit_tile.dart
 │   └── my_drawer.dart
 └── main.dart
+```
 
 ---
 
