@@ -26,9 +26,9 @@ The app combines habit tracking, calendar views, reading progress, and a study t
 ---
 
 ## 💻 Development Environment
-- IDE: Visual Studio Code
-- Emulator: Android Emulator (Android Studio)
-- Platform Tested: Android
+- IDE: Visual Studio Code  
+- Emulator: Android Emulator (Android Studio)  
+- Platform Tested: Android  
 
 ---
 
@@ -60,9 +60,6 @@ lib/
 │   └── my_drawer.dart
 └── main.dart
 
-
-
-
 ---
 
 ## ▶️ How to Run the Project
@@ -70,24 +67,24 @@ lib/
 2. Navigate to the project directory  
 3. Run `flutter pub get`  
 4. Start an Android emulator  
-5. Run `flutter run`
+5. Run `flutter run`  
 
 ---
 
 ## 📌 Project Information
 - Project Type: Independent Flutter Project  
 - Focus: Habit tracking and study productivity  
-- Data Storage: Fully offline using local database  
+- Data Storage: Fully offline using a local database  
 
 ---
 
 ## ❤️ About This Project
-This project was built to explore real-world Flutter application development by combining multiple features such as local persistence, theming, navigation, and activity tracking.  
-It reflects a focus on creating practical and user-friendly mobile applications that encourage consistency and productivity.
+This project was built to explore real-world Flutter application development by combining multiple features such as local data persistence, theming, navigation, and activity tracking.  
+It helped strengthen practical understanding of state management, database integration, and clean UI design while focusing on user productivity and consistency.
 
 ---
 
 ## 🚀 Future Enhancements
 - Habit progress analytics  
 - Reminder and notification support  
-- Cross-platform testing (iOS)
+- Cross-platform testing (iOS)  
