@@ -33,10 +33,10 @@ The app combines habit tracking, calendar views, reading progress, and a study t
 ---
 
 ## 📂 Project Structure
+
 lib/
 ├── database/
 │   └── habit_database.dart
-│
 ├── models/
 │   ├── app_settings.dart
 │   ├── app_settings.g.dart
@@ -44,26 +44,22 @@ lib/
 │   ├── habit.g.dart
 │   ├── reading_log.dart
 │   └── reading_log.g.dart
-│
 ├── pages/
 │   ├── calendar_page.dart
 │   ├── home_page.dart
 │   ├── reading_history_page.dart
 │   └── study_timer_page.dart
-│
 ├── themes/
 │   ├── dark_mode.dart
 │   ├── light_mode.dart
 │   └── theme_provider.dart
-│
 ├── utils/
 │   └── habit_util.dart
-│
 ├── widgets/
 │   ├── habit_tile.dart
 │   └── my_drawer.dart
-│
 └── main.dart
+
 
 
 
